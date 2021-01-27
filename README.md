@@ -1,3 +1,3 @@
 # Alarm
 
-![image](Alarm/AlarmDemoGif.gif)
+![image](AlarmDemoGif.gif)
